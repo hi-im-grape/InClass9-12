@@ -1,0 +1,41 @@
+String methods
+    "abc" for string literal
+    'c' single quotes for char literal
+calling and defining functions
+loops
+  while boolean expression
+  for
+  do
+  break/continue
+conditional code: if and else and else if
+th primitive data types
+  byte, short, int, long, 
+  float types float double
+  odd balls boolean char
+
+string +
+arithmetic +- /* %
+relational < > 
+logical &&, ||, !
+assignment, =, *=, %=
+
+defining variables
+
+object variables string, scanner, and we hve the wrapper classes
+integer double. these classes have useful methods,
+intefer.parseInt(string), Double.parseDouble(string)
+
+if (3<1 && 1/0==1) {
+  System.out.println("1/0==1);
+ }else{
+  System.out.println(1/0!=1");
+ }
+ int j = 7;
+ j++;
+ 
+ int k = ++j;
+ 
+ while (k>0) {
+ k -= 1;
+ system.oiut.printf("K is %d" ,k);
+ 
